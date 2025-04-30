@@ -1,13 +1,26 @@
-# React + Vite
+🛠️ Purpose
+The main goal of this project is to:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Learn how to structure and reuse React components.
 
-Currently, two official plugins are available:
+Create a central button component that accepts props to control its design and behavior.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Apply different styles (colors, sizes, variants) through a single reusable component.
 
-## Expanding the ESLint configuration
+Improve component-based design thinking in React.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Components-Playground" 
+🚀 Features
+One main Button component.
+
+Multiple button variations (e.g. primary, secondary, outline, danger).
+
+Props-based customization (size, color, click handlers, etc).
+
+Simple demo UI to showcase all variations.
+
+📦 Tech Stack
+React (Vite or Create React App)
+
+JavaScript / TypeScript (depending on your setup)
+
+CSS Modules or Tailwind CSS (optional)
