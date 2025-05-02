@@ -1,22 +1,22 @@
 🛠️ Purpose
 The main goal of this project is to:
 
-Learn how to structure and reuse React components.
+1-Learn how to structure and reuse React components.
 
-Create a central button component that accepts props to control its design and behavior.
+2-Create a central button component that accepts props to control its design and behavior.
 
-Apply different styles (colors, sizes, variants) through a single reusable component.
+3-Apply different styles (colors, sizes, variants) through a single reusable component.
 
-Improve component-based design thinking in React.
+4-Improve component-based design thinking in React.
 
 🚀 Features
-One main Button component.
+1-One main Button component.
 
-Multiple button variations (e.g. primary, secondary, outline, danger).
+2-Multiple button variations (e.g. primary, secondary, outline, danger).
 
-Props-based customization (size, color, click handlers, etc).
+3-Props-based customization (size, color, click handlers, etc).
 
-Simple demo UI to showcase all variations.
+4-Simple demo UI to showcase all variations.
 
 📦 Tech Stack
 React (Vite or Create React App)
