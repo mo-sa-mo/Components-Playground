@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/mo-sa-mo/Components-Playground",
+  "homepage": "https://mo-sa-mo.github.io/Components-Playground",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
