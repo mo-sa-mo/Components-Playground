@@ -1,5 +1,5 @@
 import React from "react";
-import Sidebar from "./components/SideBar";
+import Sidebar from "./components/Sidebar";
 import Route from "./components/Route";
 import AccordionPage from "./pages/AccordionPage";
 import DropDownPage from "./pages/DropdownPage";

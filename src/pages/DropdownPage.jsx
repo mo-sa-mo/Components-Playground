@@ -1,5 +1,5 @@
 import React from "react";
-import DropDown from "../components/DropDown";
+import DropDown from "../components/Dropdown";
 import { useState } from "react";
 
 function DropDownPage() {

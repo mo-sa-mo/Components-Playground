@@ -1,5 +1,5 @@
 import React from "react";
-import { GoBell, GoCloudDownload, GoDatabase } from "react-icons/go";
+import { GoBell, GoDownload, GoDatabase } from "react-icons/go";
 import Button from "../components/Button";
 
 function ButtonPage() {
@@ -21,7 +21,7 @@ function ButtonPage() {
       </div>
       <div>
         <Button danger outline>
-          <GoCloudDownload />
+          <GoDownload />
           Buy Now!
         </Button>
       </div>
